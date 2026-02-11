@@ -1,0 +1,1532 @@
+[
+  {
+    "title": "How my role as CTO has changed as we've grown to 100 engineers",
+    "url": "https://medium.com/gusto-engineering/how-my-role-as-cto-has-changed-as-weve-grown-to-100-engineers-b16a8a6b1a88",
+    "section": "CTO Position",
+    "subsection": null,
+    "author": null,
+    "slug": "how-my-role-as-cto-has-changed-as-weve-grown-to-100-engineers",
+    "filename": "how-my-role-as-cto-has-changed-as-weve-grown-to-100-engineers.md",
+    "error": null
+  },
+  {
+    "title": "The Different CTO Roles",
+    "url": "https://www.allthingsdistributed.com/2007/07/the_different_cto_roles.html",
+    "section": "CTO Position",
+    "subsection": null,
+    "author": "Werner Vogels",
+    "slug": "the-different-cto-roles",
+    "filename": "the-different-cto-roles.md",
+    "error": null
+  },
+  {
+    "title": "Your first 90 days as CTO or VP Engineering",
+    "url": "https://lethain.com/first-ninety-days-cto-vpe/",
+    "section": "CTO Position",
+    "subsection": null,
+    "author": "Will Larson",
+    "slug": "your-first-90-days-as-cto-or-vp-engineering",
+    "filename": "your-first-90-days-as-cto-or-vp-engineering.md",
+    "error": null
+  },
+  {
+    "title": "How to spend your first 30 days in a new senior-level role",
+    "url": "https://larahogan.me/blog/first-30-days-new-role/",
+    "section": "CTO Position",
+    "subsection": null,
+    "author": null,
+    "slug": "how-to-spend-your-first-30-days-in-a-new-senior-level-role",
+    "filename": "how-to-spend-your-first-30-days-in-a-new-senior-level-role.md",
+    "error": null
+  },
+  {
+    "title": "Evolution of my role as a founder CTO",
+    "url": "https://miguelcarranza.es/cto",
+    "section": "CTO Position",
+    "subsection": null,
+    "author": "Miguel Carranza",
+    "slug": "evolution-of-my-role-as-a-founder-cto",
+    "filename": "evolution-of-my-role-as-a-founder-cto.md",
+    "error": null
+  },
+  {
+    "title": "Year 4 Update",
+    "url": "https://miguelcarranza.es/cto-year-4",
+    "section": "CTO Position",
+    "subsection": null,
+    "author": "Miguel Carranza",
+    "slug": "year-4-update",
+    "filename": "year-4-update.md",
+    "error": null
+  },
+  {
+    "title": "#define CTO",
+    "url": "https://blog.gregbrockman.com/figuring-out-the-cto-role-at-stripe",
+    "section": "CTO Position",
+    "subsection": null,
+    "author": "Greg Brockman",
+    "slug": "define-cto",
+    "filename": "define-cto.md",
+    "error": null
+  },
+  {
+    "title": "VP Engineering vs CTO",
+    "url": "https://avc.com/2011/10/vp-engineering-vs-cto/",
+    "section": "CTO Position",
+    "subsection": null,
+    "author": "Fred Wilson",
+    "slug": "vp-engineering-vs-cto",
+    "filename": "vp-engineering-vs-cto.md",
+    "error": null
+  },
+  {
+    "title": "Three Golden Rules to Finding a CTO",
+    "url": "https://www.rudebaguette.com/2011/12/01/three-golden-rules-to-finding-a-cto/",
+    "section": "CTO Position",
+    "subsection": null,
+    "author": null,
+    "slug": "three-golden-rules-to-finding-a-cto",
+    "filename": "three-golden-rules-to-finding-a-cto.md",
+    "error": null
+  },
+  {
+    "title": "Year 5 Update",
+    "url": "https://miguelcarranza.es/cto-year-5",
+    "section": "CTO Position",
+    "subsection": null,
+    "author": "Miguel Carranza",
+    "slug": "year-5-update",
+    "filename": "year-5-update.md",
+    "error": null
+  },
+  {
+    "title": "Why Can't Programmers.. Program?",
+    "url": "https://blog.codinghorror.com/why-cant-programmers-program/",
+    "section": "Hiring",
+    "subsection": null,
+    "author": "Jeff Atwood",
+    "slug": "why-cant-programmers-program",
+    "filename": "why-cant-programmers-program.md",
+    "error": null
+  },
+  {
+    "title": "We Hire the Best, Just Like Everyone Else",
+    "url": "https://blog.codinghorror.com/we-hire-the-best-just-like-everyone-else/",
+    "section": "Hiring",
+    "subsection": null,
+    "author": "Jeff Atwood",
+    "slug": "we-hire-the-best-just-like-everyone-else",
+    "filename": "we-hire-the-best-just-like-everyone-else.md",
+    "error": null
+  },
+  {
+    "title": "Getting the Interview Phone Screen Right",
+    "url": "https://blog.codinghorror.com/getting-the-interview-phone-screen-right/",
+    "section": "Hiring",
+    "subsection": null,
+    "author": "Jeff Atwood",
+    "slug": "getting-the-interview-phone-screen-right",
+    "filename": "getting-the-interview-phone-screen-right.md",
+    "error": null
+  },
+  {
+    "title": "The Joel Test: 12 Steps to Better Code",
+    "url": "https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/",
+    "section": "Hiring",
+    "subsection": null,
+    "author": "Joel Spolsky",
+    "slug": "the-joel-test-12-steps-to-better-code",
+    "filename": "the-joel-test-12-steps-to-better-code.md",
+    "error": null
+  },
+  {
+    "title": "The Guerrilla Guide to Interviewing",
+    "url": "https://www.joelonsoftware.com/2006/10/25/the-guerrilla-guide-to-interviewing-version-30/",
+    "section": "Hiring",
+    "subsection": null,
+    "author": "Joel Spolsky",
+    "slug": "the-guerrilla-guide-to-interviewing",
+    "filename": "the-guerrilla-guide-to-interviewing.md",
+    "error": null
+  },
+  {
+    "title": "Improving Our Engineering Interview Process",
+    "url": "https://medium.com/foursquare-direct/improving-our-engineering-interview-process-106173ba25a9",
+    "section": "Hiring",
+    "subsection": null,
+    "author": null,
+    "slug": "improving-our-engineering-interview-process",
+    "filename": "improving-our-engineering-interview-process.md",
+    "error": null
+  },
+  {
+    "title": "Hitting the High Notes",
+    "url": "https://www.joelonsoftware.com/2005/07/25/hitting-the-high-notes/",
+    "section": "Hiring",
+    "subsection": null,
+    "author": "Joel Spolsky",
+    "slug": "hitting-the-high-notes",
+    "filename": "hitting-the-high-notes.md",
+    "error": null
+  },
+  {
+    "title": "Becoming a CTO",
+    "url": "https://web.archive.org/web/20171128214925/https://juokaz.com/blog/becoming-a-cto",
+    "section": "CTO Position",
+    "subsection": null,
+    "author": null,
+    "slug": "becoming-a-cto",
+    "filename": "becoming-a-cto.md",
+    "error": null
+  },
+  {
+    "title": "Lessons from Keith Rabois: How to Become a Magnet for Talent",
+    "url": "https://delian.io/lessons-5",
+    "section": "Hiring",
+    "subsection": null,
+    "author": null,
+    "slug": "lessons-from-keith-rabois-how-to-become-a-magnet-for-talent",
+    "filename": "lessons-from-keith-rabois-how-to-become-a-magnet-for-talent.md",
+    "error": null
+  },
+  {
+    "title": "Trouble hiring senior engineers? It's probably you",
+    "url": "https://hiringengineersbook.com/post/trouble-hiring/",
+    "section": "Hiring",
+    "subsection": null,
+    "author": null,
+    "slug": "trouble-hiring-senior-engineers-its-probably-you",
+    "filename": "trouble-hiring-senior-engineers-its-probably-you.md",
+    "error": null
+  },
+  {
+    "title": "Lessons from Keith Rabois: How to Interview an Executive",
+    "url": "https://delian.io/lessons-2",
+    "section": "Hiring",
+    "subsection": null,
+    "author": null,
+    "slug": "lessons-from-keith-rabois-how-to-interview-an-executive",
+    "filename": "lessons-from-keith-rabois-how-to-interview-an-executive.md",
+    "error": null
+  },
+  {
+    "title": "Visualizing Tech Company Layoffs in 2022",
+    "url": "https://www.visualcapitalist.com/visualizing-tech-company-layoffs-in-2022/",
+    "section": "Hiring",
+    "subsection": null,
+    "author": null,
+    "slug": "visualizing-tech-company-layoffs-in-2022",
+    "filename": "visualizing-tech-company-layoffs-in-2022.md",
+    "error": null
+  },
+  {
+    "title": "The mythical 10x programmer",
+    "url": "http://antirez.com/news/112",
+    "section": "People Management",
+    "subsection": null,
+    "author": "Salvatore Sanfilippo",
+    "slug": "the-mythical-10x-programmer",
+    "filename": "the-mythical-10x-programmer.md",
+    "error": null
+  },
+  {
+    "title": "The Real 11 Reasons I Don't Hire You",
+    "url": "https://charity.wtf/2019/10/18/the-real-11-reasons-i-dont-hire-you/",
+    "section": "Hiring",
+    "subsection": null,
+    "author": "Charity Majors",
+    "slug": "the-real-11-reasons-i-dont-hire-you",
+    "filename": "the-real-11-reasons-i-dont-hire-you.md",
+    "error": null
+  },
+  {
+    "title": "The Engineer/Manager Pendulum",
+    "url": "https://charity.wtf/2017/05/11/the-engineer-manager-pendulum/",
+    "section": "People Management",
+    "subsection": null,
+    "author": "Charity Majors",
+    "slug": "the-engineermanager-pendulum",
+    "filename": "the-engineermanager-pendulum.md",
+    "error": null
+  },
+  {
+    "title": "How To Hire World-Class Engineers",
+    "url": "https://angel.co/blog/how-to-hire-world-class-engineers",
+    "section": "Hiring",
+    "subsection": null,
+    "author": null,
+    "slug": "how-to-hire-world-class-engineers",
+    "filename": "how-to-hire-world-class-engineers.md",
+    "error": null
+  },
+  {
+    "title": "12 manager readmes from top tech companies",
+    "url": "https://hackernoon.com/12-manager-readmes-from-silicon-valleys-top-tech-companies-26588a660afe",
+    "section": "People Management",
+    "subsection": null,
+    "author": null,
+    "slug": "12-manager-readmes-from-top-tech-companies",
+    "filename": "12-manager-readmes-from-top-tech-companies.md",
+    "error": null
+  },
+  {
+    "title": "Top 10 System Design Interview Questions",
+    "url": "https://hackernoon.com/top-10-system-design-interview-questions-for-software-engineers-8561290f0444",
+    "section": "Hiring",
+    "subsection": null,
+    "author": "*(HackerNoon)*",
+    "slug": "top-10-system-design-interview-questions",
+    "filename": "top-10-system-design-interview-questions.md",
+    "error": null
+  },
+  {
+    "title": "non-violent communication",
+    "url": "https://review.firstround.com/power-up-your-team-with-nonviolent-communication-principles",
+    "section": "People Management",
+    "subsection": null,
+    "author": null,
+    "slug": "non-violent-communication",
+    "filename": "non-violent-communication.md",
+    "error": null
+  },
+  {
+    "title": "Design Patterns for Managing Up",
+    "url": "https://queue.acm.org/detail.cfm?id=3308563",
+    "section": "People Management",
+    "subsection": null,
+    "author": null,
+    "slug": "design-patterns-for-managing-up",
+    "filename": "design-patterns-for-managing-up.md",
+    "error": null
+  },
+  {
+    "title": "Should I Become a Manager?",
+    "url": "https://capwatkins.com/blog/should-i-become-a-manager",
+    "section": "People Management",
+    "subsection": null,
+    "author": "Cap Watkins",
+    "slug": "should-i-become-a-manager",
+    "filename": "should-i-become-a-manager.md",
+    "error": null
+  },
+  {
+    "title": "A Review Process",
+    "url": "https://capwatkins.com/blog/a-review-process",
+    "section": "People Management",
+    "subsection": null,
+    "author": "Cap Watkins",
+    "slug": "a-review-process",
+    "filename": "a-review-process.md",
+    "error": null
+  },
+  {
+    "title": "44 Engineering Management Lessons",
+    "url": "https://www.defmacro.org/2014/10/03/engman.html",
+    "section": "People Management",
+    "subsection": null,
+    "author": null,
+    "slug": "44-engineering-management-lessons",
+    "filename": "44-engineering-management-lessons.md",
+    "error": null
+  },
+  {
+    "title": "On-boarding Software Engineers",
+    "url": "https://medium.com/@odedmagger/on-boarding-software-engineers-10-techniques-to-get-it-right-927cb73e3dab",
+    "section": "People Management",
+    "subsection": null,
+    "author": null,
+    "slug": "on-boarding-software-engineers",
+    "filename": "on-boarding-software-engineers.md",
+    "error": null
+  },
+  {
+    "title": "GitLab Talent Acquisition Framework",
+    "url": "https://about.gitlab.com/handbook/hiring/talent-acquisition-framework/",
+    "section": "Hiring",
+    "subsection": null,
+    "author": null,
+    "slug": "gitlab-talent-acquisition-framework",
+    "filename": "gitlab-talent-acquisition-framework.md",
+    "error": null
+  },
+  {
+    "title": "A Tactical Guide to Managing Up",
+    "url": "https://review.firstround.com/a-tactical-guide-to-managing-up-30-tips-from-the-smartest-people-we-know",
+    "section": "People Management",
+    "subsection": null,
+    "author": null,
+    "slug": "a-tactical-guide-to-managing-up",
+    "filename": "a-tactical-guide-to-managing-up.md",
+    "error": null
+  },
+  {
+    "title": "Principles of Engineering Management",
+    "url": "https://medium.com/swlh/principles-of-engineering-management-c9cae1b34a8b",
+    "section": "People Management",
+    "subsection": null,
+    "author": null,
+    "slug": "principles-of-engineering-management",
+    "filename": "principles-of-engineering-management.md",
+    "error": null
+  },
+  {
+    "title": "The Secret To Discussing Pay With Employees",
+    "url": "https://www.officevibe.com/blog/secret-to-discussing-pay-with-employees",
+    "section": "People Management",
+    "subsection": null,
+    "author": null,
+    "slug": "the-secret-to-discussing-pay-with-employees",
+    "filename": "the-secret-to-discussing-pay-with-employees.md",
+    "error": null
+  },
+  {
+    "title": "A MANAGER\u2019S BILL OF RESPONSIBILITIES (AND RIGHTS)",
+    "url": "https://charity.wtf/2019/10/30/a-managers-bill-of-responsibilities-and-rights/",
+    "section": "People Management",
+    "subsection": null,
+    "author": null,
+    "slug": "a-managers-bill-of-responsibilities-and-rights",
+    "filename": "a-managers-bill-of-responsibilities-and-rights.md",
+    "error": null
+  },
+  {
+    "title": "The Manager FAQ",
+    "url": "https://www.seebs.net/faqs/manager.html",
+    "section": "People Management",
+    "subsection": null,
+    "author": null,
+    "slug": "the-manager-faq",
+    "filename": "the-manager-faq.md",
+    "error": null
+  },
+  {
+    "title": "Hold Your Team Accountable",
+    "url": "https://www.dave-bailey.com/blog/accountability-dial",
+    "section": "People Management",
+    "subsection": null,
+    "author": null,
+    "slug": "hold-your-team-accountable",
+    "filename": "hold-your-team-accountable.md",
+    "error": null
+  },
+  {
+    "title": "Lessons from Keith Rabois: How to be an Effective Executive",
+    "url": "https://delian.io/lessons-3",
+    "section": "People Management",
+    "subsection": null,
+    "author": null,
+    "slug": "lessons-from-keith-rabois-how-to-be-an-effective-executive",
+    "filename": "lessons-from-keith-rabois-how-to-be-an-effective-executive.md",
+    "error": null
+  },
+  {
+    "title": "Maker's Schedule, Manager's Schedule",
+    "url": "http://www.paulgraham.com/makersschedule.html",
+    "section": "People Management",
+    "subsection": null,
+    "author": "Paul Graham",
+    "slug": "makers-schedule-managers-schedule",
+    "filename": "makers-schedule-managers-schedule.md",
+    "error": null
+  },
+  {
+    "title": "Compensation Best Practices",
+    "url": "https://www.payscale.com/cbpr",
+    "section": "People Management",
+    "subsection": null,
+    "author": null,
+    "slug": "compensation-best-practices",
+    "filename": "compensation-best-practices.md",
+    "error": null
+  },
+  {
+    "title": "The Power of Performance Reviews",
+    "url": "https://firstround.com/review/the-power-of-performance-reviews-use-this-system-to-become-a-better-manager/",
+    "section": "People Management",
+    "subsection": null,
+    "author": null,
+    "slug": "the-power-of-performance-reviews",
+    "filename": "the-power-of-performance-reviews.md",
+    "error": null
+  },
+  {
+    "title": "After Being A Manager, Can I Be Happy As A Cog?",
+    "url": "https://charity.wtf/2019/11/23/questionable-advice-after-being-a-manager-can-i-be-happy-as-a-cog/",
+    "section": "People Management",
+    "subsection": null,
+    "author": null,
+    "slug": "after-being-a-manager-can-i-be-happy-as-a-cog",
+    "filename": "after-being-a-manager-can-i-be-happy-as-a-cog.md",
+    "error": null
+  },
+  {
+    "title": "Hacking team communications",
+    "url": "https://noamelf.com/posts/hacking-team-communications/",
+    "section": "People Management",
+    "subsection": null,
+    "author": null,
+    "slug": "hacking-team-communications",
+    "filename": "hacking-team-communications.md",
+    "error": null
+  },
+  {
+    "title": "Increment: Teams",
+    "url": "https://increment.com/teams/",
+    "section": "People Management",
+    "subsection": null,
+    "author": null,
+    "slug": "increment-teams",
+    "filename": "increment-teams.md",
+    "error": null
+  },
+  {
+    "title": "Draw The Owl and Other Company Values You Didn\u2019t Know You Should Have",
+    "url": "https://firstround.com/review/draw-the-owl-and-other-company-values-you-didnt-know-you-should-have/",
+    "section": "People Management",
+    "subsection": null,
+    "author": null,
+    "slug": "draw-the-owl-and-other-company-values-you-didnt-know-you-should-have",
+    "filename": "draw-the-owl-and-other-company-values-you-didnt-know-you-should-have.md",
+    "error": null
+  },
+  {
+    "title": "10,000 Hours with Reid Hoffman: What I Learned",
+    "url": "https://casnocha.com/reid-hoffman-lessons",
+    "section": "People Management",
+    "subsection": null,
+    "author": null,
+    "slug": "10000-hours-with-reid-hoffman-what-i-learned",
+    "filename": "10000-hours-with-reid-hoffman-what-i-learned.md",
+    "error": null
+  },
+  {
+    "title": "Meetings for an effective eng organization",
+    "url": "https://lethain.com/eng-org-meetings/",
+    "section": "People Management",
+    "subsection": null,
+    "author": "Will Larson",
+    "slug": "meetings-for-an-effective-eng-organization",
+    "filename": "meetings-for-an-effective-eng-organization.md",
+    "error": null
+  },
+  {
+    "title": "How to build a startup engineering team",
+    "url": "https://increment.com/teams/how-to-build-a-startup-engineering-team/",
+    "section": "People Management",
+    "subsection": null,
+    "author": null,
+    "slug": "how-to-build-a-startup-engineering-team",
+    "filename": "how-to-build-a-startup-engineering-team.md",
+    "error": null
+  },
+  {
+    "title": "7 Ways to Set Up a New Hire for Success",
+    "url": "https://hbr.org/2019/05/7-ways-to-set-up-a-new-hire-for-success",
+    "section": "People Management",
+    "subsection": null,
+    "author": null,
+    "slug": "7-ways-to-set-up-a-new-hire-for-success",
+    "filename": "7-ways-to-set-up-a-new-hire-for-success.md",
+    "error": null
+  },
+  {
+    "title": "Individuals matter",
+    "url": "https://danluu.com/people-matter/",
+    "section": "People Management",
+    "subsection": null,
+    "author": null,
+    "slug": "individuals-matter",
+    "filename": "individuals-matter.md",
+    "error": null
+  },
+  {
+    "title": "Mandate Levels",
+    "url": "https://cutlefish.substack.com/p/tbm-2752-mandate-levels",
+    "section": "People Management",
+    "subsection": null,
+    "author": null,
+    "slug": "mandate-levels",
+    "filename": "mandate-levels.md",
+    "error": null
+  },
+  {
+    "title": "Step by step guide to building high performing teams",
+    "url": "https://mm-coaches.notion.site/Step-by-step-guide-to-building-high-performing-teams-a1d3c70c031144738943e043933d3267",
+    "section": "People Management",
+    "subsection": null,
+    "author": null,
+    "slug": "step-by-step-guide-to-building-high-performing-teams",
+    "filename": "step-by-step-guide-to-building-high-performing-teams.md",
+    "error": null
+  },
+  {
+    "title": "The One Key to Dealing with Senior Executives: Answer the Question!",
+    "url": "https://kellblog.com/2012/01/17/the-one-key-to-dealing-with-senior-executives-answer-the-question/",
+    "section": "People Management",
+    "subsection": null,
+    "author": null,
+    "slug": "the-one-key-to-dealing-with-senior-executives-answer-the-question",
+    "filename": "the-one-key-to-dealing-with-senior-executives-answer-the-question.md",
+    "error": null
+  },
+  {
+    "title": "Evidence Based Scheduling",
+    "url": "https://www.joelonsoftware.com/2007/10/26/evidence-based-scheduling/",
+    "section": "Project management",
+    "subsection": null,
+    "author": "Joel Spolsky",
+    "slug": "evidence-based-scheduling",
+    "filename": "evidence-based-scheduling.md",
+    "error": null
+  },
+  {
+    "title": "Hug your manager",
+    "url": "https://buttondown.email/cote/archive/hug-your-manager/",
+    "section": "People Management",
+    "subsection": null,
+    "author": null,
+    "slug": "hug-your-manager",
+    "filename": "hug-your-manager.md",
+    "error": null
+  },
+  {
+    "title": "Cycle times",
+    "url": "https://boz.com/articles/cycle-times",
+    "section": "People Management",
+    "subsection": null,
+    "author": "Andrew Bosworth",
+    "slug": "cycle-times",
+    "filename": "cycle-times.md",
+    "error": null
+  },
+  {
+    "title": "The Secret to a Great Planning Process \u2014 Lessons from Airbnb and Eventbrite",
+    "url": "https://review.firstround.com/the-secret-to-a-great-planning-process-lessons-from-airbnb-and-eventbrite",
+    "section": "Project management",
+    "subsection": null,
+    "author": null,
+    "slug": "the-secret-to-a-great-planning-process-lessons-from-airbnb-and-eventbrite",
+    "filename": "the-secret-to-a-great-planning-process-lessons-from-airbnb-and-eventbrite.md",
+    "error": null
+  },
+  {
+    "title": "Measuring an engineering organization",
+    "url": "https://lethain.com/measuring-engineering-organizations/",
+    "section": "Project management",
+    "subsection": null,
+    "author": "Will Larson",
+    "slug": "measuring-an-engineering-organization",
+    "filename": "measuring-an-engineering-organization.md",
+    "error": null
+  },
+  {
+    "title": "Reverse Interviewing \u2014 How to interview a company as well as they interview you",
+    "url": "https://www.fishmanafnewsletter.com/p/how-to-reverse-interview",
+    "section": "Career growth",
+    "subsection": null,
+    "author": null,
+    "slug": "reverse-interviewing-how-to-interview-a-company-as-well-as-they-interview-you",
+    "filename": "reverse-interviewing-how-to-interview-a-company-as-well-as-they-interview-you.md",
+    "error": null
+  },
+  {
+    "title": "Software Engineers Growth framework",
+    "url": "https://prontopro.engineering/blog/software-engineer-growth-framework",
+    "section": "Career growth",
+    "subsection": null,
+    "author": null,
+    "slug": "software-engineers-growth-framework",
+    "filename": "software-engineers-growth-framework.md",
+    "error": null
+  },
+  {
+    "title": "How Big Tech Runs Tech Projects and the Curious Absence of Scrum",
+    "url": "https://newsletter.pragmaticengineer.com/p/project-management-in-tech",
+    "section": "Project management",
+    "subsection": null,
+    "author": "Gergely Orosz",
+    "slug": "how-big-tech-runs-tech-projects-and-the-curious-absence-of-scrum",
+    "filename": "how-big-tech-runs-tech-projects-and-the-curious-absence-of-scrum.md",
+    "error": null
+  },
+  {
+    "title": "The Reverse Interview: How To Choose Your Next Company",
+    "url": "https://www.reforge.com/blog/reverse-interview",
+    "section": "Career growth",
+    "subsection": null,
+    "author": null,
+    "slug": "the-reverse-interview-how-to-choose-your-next-company",
+    "filename": "the-reverse-interview-how-to-choose-your-next-company.md",
+    "error": null
+  },
+  {
+    "title": "Adapting to Endure / Crisis management",
+    "url": "https://www.sequoiacap.com/adapting-to-endure-2022/",
+    "section": "People Management",
+    "subsection": null,
+    "author": "Sequoia",
+    "slug": "adapting-to-endure-crisis-management",
+    "filename": "adapting-to-endure-crisis-management.md",
+    "error": null
+  },
+  {
+    "title": "The Atlassian Team Playbook",
+    "url": "https://www.atlassian.com/team-playbook",
+    "section": "Handbooks",
+    "subsection": null,
+    "author": null,
+    "slug": "the-atlassian-team-playbook",
+    "filename": "the-atlassian-team-playbook.md",
+    "error": null
+  },
+  {
+    "title": "How to Scope a New Feature",
+    "url": "https://www.prodify.group/blog/how-to-scope-a-new-feature",
+    "section": "Project management",
+    "subsection": null,
+    "author": null,
+    "slug": "how-to-scope-a-new-feature",
+    "filename": "how-to-scope-a-new-feature.md",
+    "error": null
+  },
+  {
+    "title": "What TPMs Do and What Software Engineers Can Learn From Them",
+    "url": "https://newsletter.pragmaticengineer.com/p/what-tpms-do",
+    "section": "Project management",
+    "subsection": null,
+    "author": "Gergely Orosz",
+    "slug": "what-tpms-do-and-what-software-engineers-can-learn-from-them",
+    "filename": "what-tpms-do-and-what-software-engineers-can-learn-from-them.md",
+    "error": null
+  },
+  {
+    "title": "Trunk Based Development",
+    "url": "https://www.atlassian.com/continuous-delivery/continuous-integration/trunk-based-development",
+    "section": "Development process",
+    "subsection": null,
+    "author": null,
+    "slug": "trunk-based-development",
+    "filename": "trunk-based-development.md",
+    "error": null
+  },
+  {
+    "title": "Comparing Git workflows",
+    "url": "https://www.atlassian.com/git/tutorials/comparing-workflows",
+    "section": "Development process",
+    "subsection": null,
+    "author": null,
+    "slug": "comparing-git-workflows",
+    "filename": "comparing-git-workflows.md",
+    "error": null
+  },
+  {
+    "title": "Why You Should Learn to Stop Worrying and Love Technical Debt",
+    "url": "https://marker.medium.com/why-you-should-learn-to-stop-worrying-and-love-technical-debt-55bb5684f94c",
+    "section": "Development process",
+    "subsection": null,
+    "author": null,
+    "slug": "why-you-should-learn-to-stop-worrying-and-love-technical-debt",
+    "filename": "why-you-should-learn-to-stop-worrying-and-love-technical-debt.md",
+    "error": null
+  },
+  {
+    "title": "A successful Git branching model",
+    "url": "https://nvie.com/posts/a-successful-git-branching-model/",
+    "section": "Development process",
+    "subsection": null,
+    "author": null,
+    "slug": "a-successful-git-branching-model",
+    "filename": "a-successful-git-branching-model.md",
+    "error": null
+  },
+  {
+    "title": "GitLab Team Handbook",
+    "url": "https://about.gitlab.com/handbook/",
+    "section": "Handbooks",
+    "subsection": null,
+    "author": null,
+    "slug": "gitlab-team-handbook",
+    "filename": "gitlab-team-handbook.md",
+    "error": null
+  },
+  {
+    "title": "Writing User Stories, Examples and Templates In Agile Methodologies",
+    "url": "http://www.yodiz.com/blog/writing-user-stories-examples-and-templates-in-agile-methodologies/",
+    "section": "Development process",
+    "subsection": null,
+    "author": null,
+    "slug": "writing-user-stories-examples-and-templates-in-agile-methodologies",
+    "filename": "writing-user-stories-examples-and-templates-in-agile-methodologies.md",
+    "error": null
+  },
+  {
+    "title": "Startup Lessons Learned - Five Whys",
+    "url": "http://www.startuplessonslearned.com/2008/11/five-whys.html",
+    "section": "Development process",
+    "subsection": null,
+    "author": "Five Whys](http://www.startuplessonslearned.com/2008/11/five-whys.html) - Eric Ries",
+    "slug": "startup-lessons-learned---five-whys",
+    "filename": "startup-lessons-learned---five-whys.md",
+    "error": null
+  },
+  {
+    "title": "Testing in Production, the safe way",
+    "url": "https://medium.com/@copyconstruct/testing-in-production-the-safe-way-18ca102d0ef1",
+    "section": "Development process",
+    "subsection": null,
+    "author": null,
+    "slug": "testing-in-production-the-safe-way",
+    "filename": "testing-in-production-the-safe-way.md",
+    "error": null
+  },
+  {
+    "title": "On Call Rotations: How Best to Wake Devs Up in the Middle of the Night",
+    "url": "https://thenewstack.io/call-rotations-best-wake-devs-middle-night/",
+    "section": "Development process",
+    "subsection": null,
+    "author": null,
+    "slug": "on-call-rotations-how-best-to-wake-devs-up-in-the-middle-of-the-night",
+    "filename": "on-call-rotations-how-best-to-wake-devs-up-in-the-middle-of-the-night.md",
+    "error": null
+  },
+  {
+    "title": "Microservices \u2013 Please, don\u2019t",
+    "url": "https://riak.com/posts/technical/microservices-please-dont/",
+    "section": "Architecture",
+    "subsection": null,
+    "author": null,
+    "slug": "microservices-please-dont",
+    "filename": "microservices-please-dont.md",
+    "error": null
+  },
+  {
+    "title": "It\u2019s Time to Rethink Technical Debt Management",
+    "url": "https://www.sealights.io/blog/its-time-to-rethink-technical-debt-management/",
+    "section": "Development process",
+    "subsection": null,
+    "author": null,
+    "slug": "its-time-to-rethink-technical-debt-management",
+    "filename": "its-time-to-rethink-technical-debt-management.md",
+    "error": null
+  },
+  {
+    "title": "Shrinking microservices to functions",
+    "url": "https://highscalability.com/blog/2017/3/27/faster-networks-cheaper-messages-microservices-functions-edg.html",
+    "section": "Architecture",
+    "subsection": null,
+    "author": null,
+    "slug": "shrinking-microservices-to-functions",
+    "filename": "shrinking-microservices-to-functions.md",
+    "error": null
+  },
+  {
+    "title": "10 Modern Software Over-Engineering Mistakes",
+    "url": "https://medium.com/@rdsubhas/10-modern-software-engineering-mistakes-bc67fbef4fc8",
+    "section": "Architecture",
+    "subsection": null,
+    "author": null,
+    "slug": "10-modern-software-over-engineering-mistakes",
+    "filename": "10-modern-software-over-engineering-mistakes.md",
+    "error": null
+  },
+  {
+    "title": "Best Practices for Designing a Pragmatic RESTful API",
+    "url": "https://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api",
+    "section": "Architecture",
+    "subsection": null,
+    "author": null,
+    "slug": "best-practices-for-designing-a-pragmatic-restful-api",
+    "filename": "best-practices-for-designing-a-pragmatic-restful-api.md",
+    "error": null
+  },
+  {
+    "title": "HackerNews discussion",
+    "url": "https://news.ycombinator.com/item?id=33601658",
+    "section": "Architecture",
+    "subsection": null,
+    "author": null,
+    "slug": "hackernews-discussion",
+    "filename": "hackernews-discussion.md",
+    "error": null
+  },
+  {
+    "title": "The Death of Microservice Madness in 2018",
+    "url": "https://www.dwmkerr.com/the-death-of-microservice-madness-in-2018/",
+    "section": "Architecture",
+    "subsection": null,
+    "author": null,
+    "slug": "the-death-of-microservice-madness-in-2018",
+    "filename": "the-death-of-microservice-madness-in-2018.md",
+    "error": null
+  },
+  {
+    "title": "How I Write Tests",
+    "url": "https://blog.nelhage.com/2016/12/how-i-test/",
+    "section": "Architecture",
+    "subsection": null,
+    "author": null,
+    "slug": "how-i-write-tests",
+    "filename": "how-i-write-tests.md",
+    "error": null
+  },
+  {
+    "title": "HackerNews discussion",
+    "url": "https://news.ycombinator.com/item?id=12508655",
+    "section": "Architecture",
+    "subsection": null,
+    "author": null,
+    "slug": "hackernews-discussion",
+    "filename": "hackernews-discussion.md",
+    "error": null
+  },
+  {
+    "title": "Design patterns for microservices",
+    "url": "https://azure.microsoft.com/en-us/blog/design-patterns-for-microservices/",
+    "section": "Architecture",
+    "subsection": null,
+    "author": null,
+    "slug": "design-patterns-for-microservices",
+    "filename": "design-patterns-for-microservices.md",
+    "error": null
+  },
+  {
+    "title": "How to Write a Postmortem",
+    "url": "https://web.archive.org/web/20210618014202/https://blog.serverdensity.com/how-to-write-a-postmortem/",
+    "section": "Development process",
+    "subsection": null,
+    "author": null,
+    "slug": "how-to-write-a-postmortem",
+    "filename": "how-to-write-a-postmortem.md",
+    "error": null
+  },
+  {
+    "title": "CAP Theorem: Revisited",
+    "url": "https://robertgreiner.com/cap-theorem-revisited/",
+    "section": "Technologies",
+    "subsection": null,
+    "author": null,
+    "slug": "cap-theorem-revisited",
+    "filename": "cap-theorem-revisited.md",
+    "error": null
+  },
+  {
+    "title": "Career Growth Frameworks in Software Engineering: A Review",
+    "url": "https://web.archive.org/web/20210123114037/https://medium.com/better-programming/career-growth-frameworks-in-software-engineering-a-review-4aa6c59a9cf6",
+    "section": "Career growth",
+    "subsection": null,
+    "author": null,
+    "slug": "career-growth-frameworks-in-software-engineering-a-review",
+    "filename": "career-growth-frameworks-in-software-engineering-a-review.md",
+    "error": null
+  },
+  {
+    "title": "Accentuate the negative: making the non-perfect decision. Technical decision making",
+    "url": "https://leaddev.com/technical-decision-making/accentuate-negative-making-non-perfect-decision",
+    "section": "Architecture",
+    "subsection": null,
+    "author": null,
+    "slug": "accentuate-the-negative-making-the-non-perfect-decision-technical-decision",
+    "filename": "accentuate-the-negative-making-the-non-perfect-decision-technical-decision.md",
+    "error": null
+  },
+  {
+    "title": "JS: The Right Way",
+    "url": "http://jstherightway.org",
+    "section": "Technologies",
+    "subsection": null,
+    "author": null,
+    "slug": "js-the-right-way",
+    "filename": "js-the-right-way.md",
+    "error": null
+  },
+  {
+    "title": "Big-O explained in plain English",
+    "url": "https://stackoverflow.com/a/487278/472433",
+    "section": "Technologies",
+    "subsection": null,
+    "author": null,
+    "slug": "big-o-explained-in-plain-english",
+    "filename": "big-o-explained-in-plain-english.md",
+    "error": null
+  },
+  {
+    "title": "A reference guide for fintech & small-data engineering",
+    "url": "https://medium.com/dangerous-engineering/a-reference-guide-for-fintech-small-data-engineering-bd65b9796d90",
+    "section": "Data",
+    "subsection": null,
+    "author": null,
+    "slug": "a-reference-guide-for-fintech-small-data-engineering",
+    "filename": "a-reference-guide-for-fintech-small-data-engineering.md",
+    "error": null
+  },
+  {
+    "title": "Database Migrations Done Right",
+    "url": "https://www.brunton-spall.co.uk/post/2014/05/06/database-migrations-done-right/",
+    "section": "Data",
+    "subsection": null,
+    "author": null,
+    "slug": "database-migrations-done-right",
+    "filename": "database-migrations-done-right.md",
+    "error": null
+  },
+  {
+    "title": "Evolutionary Database Design",
+    "url": "https://martinfowler.com/articles/evodb.html",
+    "section": "Data",
+    "subsection": null,
+    "author": null,
+    "slug": "evolutionary-database-design",
+    "filename": "evolutionary-database-design.md",
+    "error": null
+  },
+  {
+    "title": "The Single Most Important Internal Email in the History of Amazon",
+    "url": "https://web.archive.org/web/20221127150918/https://pulseasync.com/operators/frameworks-for-remote-working/",
+    "section": "Architecture",
+    "subsection": null,
+    "author": null,
+    "slug": "the-single-most-important-internal-email-in-the-history-of-amazon",
+    "filename": "the-single-most-important-internal-email-in-the-history-of-amazon.md",
+    "error": null
+  },
+  {
+    "title": "Building a data team at a mid-stage startup: a short story",
+    "url": "https://erikbern.com/2021/07/07/the-data-team-a-short-story.html",
+    "section": "Data",
+    "subsection": null,
+    "author": null,
+    "slug": "building-a-data-team-at-a-mid-stage-startup-a-short-story",
+    "filename": "building-a-data-team-at-a-mid-stage-startup-a-short-story.md",
+    "error": null
+  },
+  {
+    "title": "SaaS CTO Security Checklist",
+    "url": "https://web.archive.org/web/20230324072622/https://www.goldfiglabs.com/guide/saas-cto-security-checklist/",
+    "section": "Technologies",
+    "subsection": null,
+    "author": null,
+    "slug": "saas-cto-security-checklist",
+    "filename": "saas-cto-security-checklist.md",
+    "error": null
+  },
+  {
+    "title": "Microsoft Azure in Plain English",
+    "url": "https://web.archive.org/web/20190508145128/https://www.expeditedssl.com/azure-in-plain-english",
+    "section": "Technologies",
+    "subsection": null,
+    "author": null,
+    "slug": "microsoft-azure-in-plain-english",
+    "filename": "microsoft-azure-in-plain-english.md",
+    "error": null
+  },
+  {
+    "title": "Building a data science team",
+    "url": "https://fastdatascience.com/building-a-data-science-team/",
+    "section": "Data",
+    "subsection": null,
+    "author": null,
+    "slug": "building-a-data-science-team",
+    "filename": "building-a-data-science-team.md",
+    "error": null
+  },
+  {
+    "title": "How to Structure a Data Science Team",
+    "url": "https://www.altexsoft.com/blog/datascience/how-to-structure-data-science-team-key-models-and-roles/",
+    "section": "Data",
+    "subsection": null,
+    "author": null,
+    "slug": "how-to-structure-a-data-science-team",
+    "filename": "how-to-structure-a-data-science-team.md",
+    "error": null
+  },
+  {
+    "title": "85 Things I learned being a CEO",
+    "url": "https://hackernoon.com/85-things-i-learned-being-a-ceo-4c25fc1c7b99",
+    "section": "Startups",
+    "subsection": null,
+    "author": null,
+    "slug": "85-things-i-learned-being-a-ceo",
+    "filename": "85-things-i-learned-being-a-ceo.md",
+    "error": null
+  },
+  {
+    "title": "Databases in 2022: A Year in Review",
+    "url": "https://ottertune.com/blog/2022-databases-retrospective/",
+    "section": "Data",
+    "subsection": null,
+    "author": null,
+    "slug": "databases-in-2022-a-year-in-review",
+    "filename": "databases-in-2022-a-year-in-review.md",
+    "error": null
+  },
+  {
+    "title": "A Guide to Surviving Tech Due Diligence",
+    "url": "https://circleci.com/resources/tech-due-diligence/",
+    "section": "Due Diligence",
+    "subsection": null,
+    "author": null,
+    "slug": "a-guide-to-surviving-tech-due-diligence",
+    "filename": "a-guide-to-surviving-tech-due-diligence.md",
+    "error": null
+  },
+  {
+    "title": "IT Department Tech Due Diligence Checklist",
+    "url": "https://gist.github.com/raphaelbauer/b31d49d91a0af6c1106bfc8ef4bf6d13",
+    "section": "Due Diligence",
+    "subsection": null,
+    "author": null,
+    "slug": "it-department-tech-due-diligence-checklist",
+    "filename": "it-department-tech-due-diligence-checklist.md",
+    "error": null
+  },
+  {
+    "title": "Technology Due Diligence Checklist",
+    "url": "https://akfpartners.com/growth-blog/technical-due-diligence-checklists",
+    "section": "Due Diligence",
+    "subsection": null,
+    "author": null,
+    "slug": "technology-due-diligence-checklist",
+    "filename": "technology-due-diligence-checklist.md",
+    "error": null
+  },
+  {
+    "title": "Managing Data Science Teams",
+    "url": "https://www.dominodatalab.com/resources/field-guide/managing-data-science-teams/",
+    "section": "Data",
+    "subsection": null,
+    "author": null,
+    "slug": "managing-data-science-teams",
+    "filename": "managing-data-science-teams.md",
+    "error": null
+  },
+  {
+    "title": "Options vs Cash",
+    "url": "https://danluu.com/startup-options/",
+    "section": "Money / Finance",
+    "subsection": null,
+    "author": null,
+    "slug": "options-vs-cash",
+    "filename": "options-vs-cash.md",
+    "error": null
+  },
+  {
+    "title": "YC\u2019s Series A Diligence Checklist",
+    "url": "https://blog.ycombinator.com/ycs-series-a-diligence-checklist/",
+    "section": "Startups",
+    "subsection": null,
+    "author": null,
+    "slug": "ycs-series-a-diligence-checklist",
+    "filename": "ycs-series-a-diligence-checklist.md",
+    "error": null
+  },
+  {
+    "title": "What\u2019s the Second Job of a Startup CEO?",
+    "url": "https://blog.ycombinator.com/the-second-job-of-a-startup-ceo/",
+    "section": "Startups",
+    "subsection": null,
+    "author": null,
+    "slug": "whats-the-second-job-of-a-startup-ceo",
+    "filename": "whats-the-second-job-of-a-startup-ceo.md",
+    "error": null
+  },
+  {
+    "title": "How To Invest In Startups",
+    "url": "https://blog.samaltman.com/how-to-invest-in-startups",
+    "section": "Money / Finance",
+    "subsection": null,
+    "author": "Sam Altman",
+    "slug": "how-to-invest-in-startups",
+    "filename": "how-to-invest-in-startups.md",
+    "error": null
+  },
+  {
+    "title": "Equity 101 for Software Engineers at Big Tech and Startups",
+    "url": "https://blog.pragmaticengineer.com/equity-for-software-engineers/",
+    "section": "Money / Finance",
+    "subsection": null,
+    "author": "Gergely Orosz",
+    "slug": "equity-101-for-software-engineers-at-big-tech-and-startups",
+    "filename": "equity-101-for-software-engineers-at-big-tech-and-startups.md",
+    "error": null
+  },
+  {
+    "title": "Framework for balancing and budgeting engineering resourcing",
+    "url": "https://medium.com/engineering-operations/a-framework-for-balancing-and-budgeting-engineering-resourcing-d0cce0e6911c",
+    "section": "Money / Finance",
+    "subsection": null,
+    "author": null,
+    "slug": "framework-for-balancing-and-budgeting-engineering-resourcing",
+    "filename": "framework-for-balancing-and-budgeting-engineering-resourcing.md",
+    "error": null
+  },
+  {
+    "title": "IPOs and Beyond: A Guide to Exit Options for Companies",
+    "url": "https://future.a16z.com/ipos-and-beyond-a-guide-to-exit-options-for-companies/",
+    "section": "Money / Finance",
+    "subsection": null,
+    "author": null,
+    "slug": "ipos-and-beyond-a-guide-to-exit-options-for-companies",
+    "filename": "ipos-and-beyond-a-guide-to-exit-options-for-companies.md",
+    "error": null
+  },
+  {
+    "title": "Knowledge-Sharing Architects As An Alternative to Coding Architects",
+    "url": "http://ithare.com/knowledge-sharing-architects-as-an-alternative-to-coding-architects/",
+    "section": "Related stuff",
+    "subsection": null,
+    "author": null,
+    "slug": "knowledge-sharing-architects-as-an-alternative-to-coding-architects",
+    "filename": "knowledge-sharing-architects-as-an-alternative-to-coding-architects.md",
+    "error": null
+  },
+  {
+    "title": "Option grants at seed",
+    "url": "https://www.indexventures.com/rewardingtalent/option-grants-at-seed",
+    "section": "Money / Finance",
+    "subsection": null,
+    "author": null,
+    "slug": "option-grants-at-seed",
+    "filename": "option-grants-at-seed.md",
+    "error": null
+  },
+  {
+    "title": "A Guide to Seed Fundraising",
+    "url": "https://blog.ycombinator.com/how-to-raise-a-seed-round/",
+    "section": "Money / Finance",
+    "subsection": null,
+    "author": null,
+    "slug": "a-guide-to-seed-fundraising",
+    "filename": "a-guide-to-seed-fundraising.md",
+    "error": null
+  },
+  {
+    "title": "Ten Rules for Negotiating a Job Offer",
+    "url": "https://haseebq.com/my-ten-rules-for-negotiating-a-job-offer/",
+    "section": "Related stuff",
+    "subsection": null,
+    "author": null,
+    "slug": "ten-rules-for-negotiating-a-job-offer",
+    "filename": "ten-rules-for-negotiating-a-job-offer.md",
+    "error": null
+  },
+  {
+    "title": "Undervalued Software Engineering Skills: Writing Well",
+    "url": "https://blog.pragmaticengineer.com/on-writing-well/",
+    "section": "Related stuff",
+    "subsection": null,
+    "author": "Gergely Orosz",
+    "slug": "undervalued-software-engineering-skills-writing-well",
+    "filename": "undervalued-software-engineering-skills-writing-well.md",
+    "error": null
+  },
+  {
+    "title": "Negotiate the right deal with suppliers",
+    "url": "https://www.infoentrepreneurs.org/en/guides/negotiate-the-right-deal-with-suppliers/",
+    "section": "Money / Finance",
+    "subsection": null,
+    "author": null,
+    "slug": "negotiate-the-right-deal-with-suppliers",
+    "filename": "negotiate-the-right-deal-with-suppliers.md",
+    "error": null
+  },
+  {
+    "title": "DevOps: Bringing development and operations together",
+    "url": "https://www.atlassian.com/devops",
+    "section": "Related stuff",
+    "subsection": null,
+    "author": null,
+    "slug": "devops-bringing-development-and-operations-together",
+    "filename": "devops-bringing-development-and-operations-together.md",
+    "error": null
+  },
+  {
+    "title": "Strategic Procurements 10 Commandments for Managing the Buying Process",
+    "url": "https://strategicdynamicsfirm.com/strategic-procurements-10-commandments-managing-hospital-buying-process/",
+    "section": "Money / Finance",
+    "subsection": null,
+    "author": null,
+    "slug": "strategic-procurements-10-commandments-for-managing-the-buying-process",
+    "filename": "strategic-procurements-10-commandments-for-managing-the-buying-process.md",
+    "error": null
+  },
+  {
+    "title": "The Pyramid Principle",
+    "url": "https://medium.com/lessons-from-mckinsey/the-pyramid-principle-f0885dd3c5c7",
+    "section": "Related stuff",
+    "subsection": null,
+    "author": null,
+    "slug": "the-pyramid-principle",
+    "filename": "the-pyramid-principle.md",
+    "error": null
+  },
+  {
+    "title": "What Makes a Great Product Manager",
+    "url": "https://hackernoon.com/what-makes-a-great-product-manager-3c1d03b90356",
+    "section": "Product",
+    "subsection": null,
+    "author": null,
+    "slug": "what-makes-a-great-product-manager",
+    "filename": "what-makes-a-great-product-manager.md",
+    "error": null
+  },
+  {
+    "title": "Senior Engineer\u2019s Checklist",
+    "url": "https://medium.com/@littleblah/my-top-25-items-in-a-senior-engineers-checklist-c8e9f9f6e3c2",
+    "section": "Related stuff",
+    "subsection": null,
+    "author": null,
+    "slug": "senior-engineers-checklist",
+    "filename": "senior-engineers-checklist.md",
+    "error": null
+  },
+  {
+    "title": "Salary Negotiation: Make More Money, Be More Valued",
+    "url": "https://www.kalzumeus.com/2012/01/23/salary-negotiation/",
+    "section": "Related stuff",
+    "subsection": null,
+    "author": null,
+    "slug": "salary-negotiation-make-more-money-be-more-valued",
+    "filename": "salary-negotiation-make-more-money-be-more-valued.md",
+    "error": null
+  },
+  {
+    "title": "Falsehoods Programmers Believe About Names",
+    "url": "https://www.kalzumeus.com/2010/06/17/falsehoods-programmers-believe-about-names/",
+    "section": "Related stuff",
+    "subsection": null,
+    "author": null,
+    "slug": "falsehoods-programmers-believe-about-names",
+    "filename": "falsehoods-programmers-believe-about-names.md",
+    "error": null
+  },
+  {
+    "title": "Financial Planning & Analysis @ GitLab",
+    "url": "https://about.gitlab.com/handbook/finance/financial-planning-and-analysis/",
+    "section": "Money / Finance",
+    "subsection": null,
+    "author": null,
+    "slug": "financial-planning-analysis-gitlab",
+    "filename": "financial-planning-analysis-gitlab.md",
+    "error": null
+  },
+  {
+    "title": "How to Prepare a Talk",
+    "url": "https://www.deconstructconf.com/blog/how-to-prepare-a-talk",
+    "section": "Related stuff",
+    "subsection": null,
+    "author": null,
+    "slug": "how-to-prepare-a-talk",
+    "filename": "how-to-prepare-a-talk.md",
+    "error": null
+  },
+  {
+    "title": "Product North Star Metric",
+    "url": "https://amplitude.com/blog/product-north-star-metric",
+    "section": "Product",
+    "subsection": null,
+    "author": null,
+    "slug": "product-north-star-metric",
+    "filename": "product-north-star-metric.md",
+    "error": null
+  },
+  {
+    "title": "The Secrets Of Creative Thinking",
+    "url": "https://www.lemonade.com/blog/creative-thinking-hacks/",
+    "section": "Product",
+    "subsection": null,
+    "author": null,
+    "slug": "the-secrets-of-creative-thinking",
+    "filename": "the-secrets-of-creative-thinking.md",
+    "error": null
+  },
+  {
+    "title": "How to Hire a Product Manager",
+    "url": "https://www.kennorton.com/essays/productmanager.html",
+    "section": "Product",
+    "subsection": null,
+    "author": null,
+    "slug": "how-to-hire-a-product-manager",
+    "filename": "how-to-hire-a-product-manager.md",
+    "error": null
+  },
+  {
+    "title": "Red Oceans: How to Find Profitable Startup Ideas",
+    "url": "https://capitalandgrowth.org/answers/Article/3143488/How-to-Find-Profitable-Business-Ideas",
+    "section": "Product",
+    "subsection": null,
+    "author": null,
+    "slug": "red-oceans-how-to-find-profitable-startup-ideas",
+    "filename": "red-oceans-how-to-find-profitable-startup-ideas.md",
+    "error": null
+  },
+  {
+    "title": "How to Use OpenAPI and Swagger for Documentation",
+    "url": "https://blog.readme.com/how-to-use-openapi-and-swagger-spec-for-documentation/",
+    "section": "Related stuff",
+    "subsection": null,
+    "author": null,
+    "slug": "how-to-use-openapi-and-swagger-for-documentation",
+    "filename": "how-to-use-openapi-and-swagger-for-documentation.md",
+    "error": null
+  },
+  {
+    "title": "Shape Up: Stop Running in Circles and Ship Work that Matters",
+    "url": "https://basecamp.com/shapeup",
+    "section": "Product",
+    "subsection": null,
+    "author": null,
+    "slug": "shape-up-stop-running-in-circles-and-ship-work-that-matters",
+    "filename": "shape-up-stop-running-in-circles-and-ship-work-that-matters.md",
+    "error": null
+  },
+  {
+    "title": "If You Don\u2019t Think You Need a VP of Product...",
+    "url": "https://www.saastr.com/if-you-dont-think-you-need-a-vp-of-product-marketing-etc-then-you-havent-worked-with-a-great-one/",
+    "section": "Product",
+    "subsection": null,
+    "author": null,
+    "slug": "if-you-dont-think-you-need-a-vp-of-product",
+    "filename": "if-you-dont-think-you-need-a-vp-of-product.md",
+    "error": null
+  },
+  {
+    "title": "Product vs. Feature Teams",
+    "url": "https://svpg.com/product-vs-feature-teams/",
+    "section": "Product",
+    "subsection": null,
+    "author": null,
+    "slug": "product-vs-feature-teams",
+    "filename": "product-vs-feature-teams.md",
+    "error": null
+  },
+  {
+    "title": "Execution at Facebook",
+    "url": "https://productlife.to/p/-execution-at-facebook",
+    "section": "Product",
+    "subsection": null,
+    "author": null,
+    "slug": "execution-at-facebook",
+    "filename": "execution-at-facebook.md",
+    "error": null
+  },
+  {
+    "title": "8 Product Hurdles Every Founder Must Clear",
+    "url": "https://review.firstround.com/8-product-hurdles-every-founder-must-clear-this-pm-turned-founder-shares-his-playbooks",
+    "section": "Product",
+    "subsection": null,
+    "author": null,
+    "slug": "8-product-hurdles-every-founder-must-clear",
+    "filename": "8-product-hurdles-every-founder-must-clear.md",
+    "error": null
+  },
+  {
+    "title": "The Top 10 Deliverables of Product Managers",
+    "url": "https://www.sachinrekhi.com/top-10-deliverables-of-product-managers",
+    "section": "Product",
+    "subsection": null,
+    "author": null,
+    "slug": "the-top-10-deliverables-of-product-managers",
+    "filename": "the-top-10-deliverables-of-product-managers.md",
+    "error": null
+  },
+  {
+    "title": "Developer Marketing Guide",
+    "url": "https://www.devmarketingguide.com",
+    "section": "Marketing",
+    "subsection": null,
+    "author": null,
+    "slug": "developer-marketing-guide",
+    "filename": "developer-marketing-guide.md",
+    "error": null
+  },
+  {
+    "title": "How today's fastest growing B2B businesses found their first ten customers",
+    "url": "https://www.lennysnewsletter.com/p/how-todays-fastest-growing-b2b-businesses",
+    "section": "Marketing",
+    "subsection": null,
+    "author": null,
+    "slug": "how-todays-fastest-growing-b2b-businesses-found-their-first-ten-customers",
+    "filename": "how-todays-fastest-growing-b2b-businesses-found-their-first-ten-customers.md",
+    "error": null
+  },
+  {
+    "title": "How to Write Your First Strategic Roadmap",
+    "url": "https://ganotnoa.com/how-to-write-your-first-strategic-roadmap-part-1/",
+    "section": "Product",
+    "subsection": null,
+    "author": null,
+    "slug": "how-to-write-your-first-strategic-roadmap",
+    "filename": "how-to-write-your-first-strategic-roadmap.md",
+    "error": null
+  },
+  {
+    "title": "Startup CTO's Handbook",
+    "url": "https://github.com/ZachGoldberg/Startup-CTO-Handbook/",
+    "section": "Books",
+    "subsection": null,
+    "author": null,
+    "slug": "startup-ctos-handbook",
+    "filename": "startup-ctos-handbook.md",
+    "error": null
+  },
+  {
+    "title": "foundr - Advices from founders",
+    "url": "https://foundr.com/articles",
+    "section": "More links",
+    "subsection": null,
+    "author": "Advices from founders](https://foundr.com/articles)",
+    "slug": "foundr---advices-from-founders",
+    "filename": "foundr---advices-from-founders.md",
+    "error": null
+  },
+  {
+    "title": "Socal CTO",
+    "url": "https://www.socalcto.com/2011/09/startup-cto.html",
+    "section": "More links",
+    "subsection": null,
+    "author": null,
+    "slug": "socal-cto",
+    "filename": "socal-cto.md",
+    "error": null
+  },
+  {
+    "title": "CTO Insights Podcast",
+    "url": "https://ctoinsights.adevait.com/",
+    "section": "More links",
+    "subsection": null,
+    "author": null,
+    "slug": "cto-insights-podcast",
+    "filename": "cto-insights-podcast.md",
+    "error": null
+  },
+  {
+    "title": "SaaS Email Marketing Handbook",
+    "url": "https://saasemailmarketing.net",
+    "section": "Marketing",
+    "subsection": null,
+    "author": null,
+    "slug": "saas-email-marketing-handbook",
+    "filename": "saas-email-marketing-handbook.md",
+    "error": null
+  },
+  {
+    "title": "HackerNews discussion",
+    "url": "https://news.ycombinator.com/item?id=12197795",
+    "section": "Related stuff",
+    "subsection": null,
+    "author": null,
+    "slug": "hackernews-discussion",
+    "filename": "hackernews-discussion.md",
+    "error": null
+  },
+  {
+    "title": "Most Startups Should Be Deer Hunters",
+    "url": "https://bothsidesofthetable.com/most-startups-should-be-deer-hunters-7fdecf58f4f6",
+    "section": "Product",
+    "subsection": null,
+    "author": null,
+    "slug": "most-startups-should-be-deer-hunters",
+    "filename": "most-startups-should-be-deer-hunters.md",
+    "error": null
+  }
+]

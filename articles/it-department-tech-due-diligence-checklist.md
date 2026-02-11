@@ -1,0 +1,143 @@
+# IT Department Tech Due Diligence Checklist
+
+**Source:** https://gist.github.com/raphaelbauer/b31d49d91a0af6c1106bfc8ef4bf6d13
+**Section:** Due Diligence
+
+
+---
+
+NOTE: An updated version is available over here: https://www.raphaelbauer.com/posts/due-diligence/
+- Do your employees have a purpose. Do they know why they work with you?
+- How KPMG supercharged purpose: https://hbr.org/2015/10/how-an-accounting-firm-convinced-its-employees-they-could-change-the-world
+- https://hbr.org/2019/09/put-purpose-at-the-core-of-your-strategy
+- Purpose framework and guide from HBR: https://hbr.org/2018/07/creating-a-purpose-driven-organization
+- Is there a product roadmap? Short term (next sprint), mid term (up to one year), long term (3 years and more)
+- Okrs, Roadmap and Vision (Facebook example): http://www.sachinrekhi.com/modern-project-management-for-product-managers
+- Make sure the roadmap is realistic and not a wishlist that will never come true.
+- Gerald M. Weinberg "Secrets of Consulting". Using anonymous votes to gather confidence about the schedule.
+- Tom DeMarco's book "Slack". Difference between schedule and goal. Schedule with risk management
+- Is everyone accountable? Aka - OKRs and goals everywhere (team level, people level)?
+- John Doerr's excellent book "Measure What Matters: OKRs: The Simple Idea that Drives 10x Growth."
+- But metrics can be dangerous if they become the target. Must read is: "Measuring and managing performance in organizations" by Robert D. Austin.
+- Are meetings effective? Every meeting should have an agenda and a document to take notes. Action items are essential to make sure things are happening.
+- Are minimum meetings for knowledge exchange in place? (Culture)
+- There should be a bi-weekly 1 hour meeting where teams highlight progress, roadblocks insights and what they will work on next.
+- Is there a meeting where the organization syncs? All Hands, where eg Sales and so on also present?
+- Tech talk / lightning talks would be nice
+- More: https://hbr.org/2019/07/why-employees-dont-share-knowledge-with-each-other
+- Is heartbeat of the organization collected? Eg get happiness of the teams every month. => Identify weak spots early on and act!
+- Straight forward tool (caveat: We developed it): https://www.team-climate.com
+- Is a minimum IT team structure in place (Structure Team Zero)
+- Dev teams (cross functional)
+- Engineering leads as line managers for up to 3 teams
+- Product team (each product person dealing with one or two teams)
+- OPTIONAL: Product chapter that syncs
+- Head of development that syncs with product chapter and engineering lead
+- Is there an organigram with all people and relations between each other?
+- Must be easily accessible. Some kind of obscure Bamboo thing usually does not cut it.
+- Are roles and career paths defined and written down what is expected (minimum). Eg
+- Senior developer is: Junior Developer is:... A team lead is: ...
+- How Stack Overflow calculates pay for engineers: https://stackoverflow.com/company/salary/calculator
+- STEPS framework from Spotify: https://labs.spotify.com/2016/02/15/spotify-technology-career-steps/
+- Is there a operating manual (aka handbook) how the department works (with checklists)?
+- Valve's handbook for new employees: https://www.valvesoftware.com/hu/publications
+- Gitlab's handbook is another great reference: https://about.gitlab.com/handbook
+- Is failure permitted? If you never fail you will never innovate. (The opposite is not necessarily true).
+- There is a strong tension between permitting failure and being slow or too conservative in releasing something new. If teams are NOT allowed to make mistakes they will be very slow in releasing new things. Zuck’s original motto was: "Release fast and break things". But that can go also go wrong if teams only releasy buggy software. Therefore Zuck had to change it to: "Move fast with stability". (http://venturebeat.com/2014/04/30/facebook-has-killed-off-the-move-fast-break-things-mantra/)
+- Tom DeMarco's book "Slack" outlines why risk and uncertainty is needed for successful companies. Managing risk is therefore essential.
+- Are post-mortems done on all levels (teams, management etc)
+- https://sre.google/sre-book/postmortem-culture/
+- In Scrum these are retrospectives
+- https://hbr.org/2015/11/why-organizations-dont-learn
+- Are pre-mortems for projects being done?
+- Is feedback accepted on all levels? (and also used very very often?)
+- Feedback must be a habit. After talks. After projects. After everything.
+- Is there a "Checklist Culture" to make things reproducible? (eg scrum meetings, depolyments, but also definition of done and similar artifacts). There's even a book about it: Atul Gawande: "The Checklist Manifesto: How to Get Things Right"
+- Is there trust between the teams?
+- Is there a rude tone? People should be nice to each other.
+- No Asshole rule: https://en.wikipedia.org/wiki/The_No_Asshole_Rule
+- Kick them out: http://hintjens.com/blog:120
+- Are remote teams working properly?
+- Teams should always use videochat and online tools for collaboration (Google Draw for sketching ideas eg)
+- Working remotely is not a problem and pair programming or mob programming works just fine when the coder shares the screen
+- Make sure remote teams participate in your company meetings (Show and Tell, All Hands...)
+- Are teams delivering things end-to-end? Product should be able to develop cool products with one team and minimal sync with other teams.
+- Is there a healthy team culture. Everyone inside a team speaks. Everyone contributes.
+- Having a team lead decide everything is an anti-pattern
+- Also see Google's Aristotle studies about high performance teams (https://rework.withgoogle.com/print/guides/5721312655835136/).
+- Are there employees that are single points of failure? Is mitigation of single points of failure actively pursued?
+- Is there a documented onboarding process for newcomers?
+- Is there a documented offboarding process leaving employees?
+- Is there a structured hiring process (aligned with career path and salary)?
+- Is there a structured process to promote employees (aka clear career paths)?
+- Is employee churn being benchmarked and acted upon?
+- When people quit - is there a process to get honest (!) feedback to improve things?
+- Is there a structured feedback process once or twice a year for an employee (eg 360 degree feedback).
+- Are there 1:1s between line managers and employees?
+- Is it visible for everyone on which task anyone is working?
+- Do teams have OKRs and or roadmap so they know what to focus on? Do teams know their upcoming milestones?
+- Do teams focus on one topic? (Or do they work on a lot of things at the same time getting distracted without good focus?)
+- Do teams have a documented process (SCRUM eg)?
+- Is simplicity paramount?
+- Don't use Acronyms => https://www.inc.com/glenn-leibowitz/in-just-2-words-elon-musk-gave-writing-advice-every-business-leader-should-follow.html
+- Work for the most simple and straightforward solution
+- Is repeatability paramount?
+- Use checklists. Everywhere.
+- Is team maturity taken into account? Are immature teams known and do they get the help they need to successfully deliver products?
+- Is the concept of a "Product Owner" clear
+- There is a difference between someone having authority and driving the product actively and a mere "product task monkey" that delegates stuff to the dev team.
+- From Knitberg (Spotify): https://www.youtube.com/watch?v=502ILHjX9EE
+- Is there a good collaboration between individual product people?
+- Product team meets every week in front of a wall with "initiatives" to exchange what is going on?
+- Product and the development teams strive for simplicity everywhere. Simplicity in product, simplicity in resulting software.
+- How mature is delivery? The terms "agile" and "MVP" must be crystal clear.
+- eg delivering something to the users to get user feedback as fast as possible. Releasing a big bang project is NOT agile and will massively increase the likelhood of failure
+- Is user interaction with features / products being measured and tracked?
+- Make tracking of user interactions an acceptance criteria. This is the basis to make your product decisions. Without that data you are guessing.
+- Don't forget to also track APIs that are used by machines (restful json api, graphql etc). Either monitor them or track them in for - instance - Matomo / Google Analytics.
+- Are unused or not-much-used features being shut down actively?
+- Does product and development teams work and groom new things together? (Grooming session)
+- Product knows what can be sold and what the user wants. Development teams know how to make that happen in the best (and fastest way). Usually there is a sweet spot, where 80% of product requirements can be developed very quickly, but making the rest happen will take a lot of development time. The goal for product and development teams is to find that sweet spot.
+- Is a risk assessment done for product / project? (postmortems / premortems)
+- A failed product / project hurts, but is an important learning opportunity for your teams. Make sure to follow up and get learnings out of it (post-mortems)
+- Are product owners part of the teams (they should be)?
+- Do product owners define acceptance criteria - and are being consulted when developing features?
+- If people quit your product - is a follow up scheduled to find out why?
+- Is there an internship program for devs to put them into the shoes of customer care and into the front line?
+- Measure productivity of your teams. The book Accelerate by Gene Kim, Jez Humble, and Nicole Forsgren outlines three metrics to watch out for: lead time, release frequency and mean time to restore. Failure change rate is another metric that can be used, but did not pass all tests according to Accelerate. Thanks to Sören for bringing this up!
+- Is simplicity paramount? Simple code. Simple services. Simple IT landscape?
+- Actively reduce the amount of technologies used.
+- If you can - use true continuous development where every feature gets deployed to production (likely behind a feature flag). Uncle Bob Martin calls this "true continuous delivery". Others call it "trunk-based development". There are many names for the same concept. The goal is clear: Less ceremony around "deployments" - More delivery of features to customers.
+- Is a Tech radar in place so that developer have a guidance what to use and what not to use?
+- See Zalando: https://opensource.zalando.com/tech-radar/
+- Do the teams use pull requests and 4 eyes principle?
+- Pull Requests should be minimal - ie reformatting should never be part of the PR to make it obvious
+- Are systems up to date? Have a regular day every quarter where your systems and libraries get updated. We called this Love4TheSystems day. Update your maven dependencies, update your databases, update your build servers...
+- Are there backup and restore drills for services and databases?
+- Are services and systems documented (big board with all services and connections).
+- Document ownership (teams)
+- Document riskiness (and make sure to get rid of risky stuff, put that on the roadmap)
+- Are engineering teams made resilient?
+- Pair programming to transfer knowledge
+- Mob programming
+- https://hackernoon.com/40-ways-to-invest-in-more-resilient-teams-c2ac7d008591
+- Do all services have ‘owners’ - aka teams? (Mark services without ownership as risky to replace them soon).
+- Is the business impact of each service clear? Are service guarantees defined? What happens if a service goes down?
+- Rules of play in place (Eg Security / Authentication / Authorization, coding styles etc, documentation)?
+- Are rules of play enforced? (eg by team lead)?
+- For instance: Are services scanned automatically for security constraints
+- For instance: Is github configured securely and not publicly accessible...
+- Are services easy and fast to deploy?
+- Is a proper test strategy in place (eg how google tests software) testing pyramid?
+- All Pull Requests should have tests. Hotfixes have tests. Bugfixes have tests.
+- "How Google Tests Software" - book by James Whittaker et. al
+- https://testing.googleblog.com/
+- Are there clear OKRs / roadmaps for each team? (Aligned with product). Engineers have to know their priorities!
+- 24/7 in place if needed?
+- Is performance test strategy in place (SLAs, SLOs)?
+- Performance of services must be monitored.
+- Site Reliability Engineering book: https://landing.google.com/sre/sre-book/chapters/service-level-objectives/
+- Are teams able to develop features without being blocked by other teams?
+- Teams should not be waiting for other teams to implement anything. Best practices like Inner Source can help in that regard.
+- Inner source commons got many resources on the topic: https://innersourcecommons.org/
+- Zalando's approach to Inner Source for their 1500+ engineers: https://opensource.zalando.com/docs/resources/innersource-howto/

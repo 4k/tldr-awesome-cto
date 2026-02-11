@@ -1,0 +1,43 @@
+# Most Startups Should Be Deer Hunters
+
+**Source:** https://bothsidesofthetable.com/most-startups-should-be-deer-hunters-7fdecf58f4f6
+**Section:** Product
+
+
+---
+
+Most Startups Should be Deer Hunters
+--
+This post is part of my series “Startup Lessons”
+Elephants, Deer and Rabbits — Some thoughts on start-up segmentation
+Nearly all of the mistakes I made at my first company I fixed by the time of my second company. This is the only mistake I repeated twice and it is a mistake that I see many, many companies make.
+I know that this advice won’t apply to every possible startup — but I think it applies to many.
+When you start your company the very first question you need to ask yourself is which kind of customers do you want to serve. Many start-ups (and even growth firms) lack this discipline and they therefore serve customers off all sizes. This leads to suboptimal results for all.
+Make sure you know what the size of customer you want to serve is, what the people in a company of that size do, the problems they have, the features that will resonate and the channels you’ll need to sell into and service that customer. Because it will vary dramatically by different segments I believe you need to pick an animal size and go for it.
+I’ve stated my animal bias in the title — but each can work for different business types. The segment breakdowns are below:
+Elephants:
+It is very tempting for many start-ups to hunt elephants. These are really massive customers. It’s landing AT&T or Microsoft as a customer when you’re a start-up. You’ve got 8 people and are serving a business unit that has 5,000.
+It’s tempting on many levels to be an elephant hunter. If you manage to kill an elephant they have so much meat they’ll feed you for a long time. But elephants are hard to catch and take whole teams of people to bring down. They take special tools. If you’re not successful you may starve. If you do catch them, it could be even worse. Avoid elephants in your early stages. Learn from my mistakes.
+Here is the real world story. I worked for Andersen Consulting for more than 8 years. Initially as a systems designer and programmer and post MBA as a strategy consultant. We knew how to land huge corporate customers. We knew how to “call high” into board rooms and get meetings. So when I started my first company I naturally went for elephants.
+The problem is that they were initially very easy for me to find. I could easily go into the board rooms of major European companies (I was based in London) and land $500k — $1 million contracts so my order book grew rapidly. The problem is that to win each of these deals I had to promise high service levels. We typically committed to building “missing” features and therefore steered off of our MVP (minimum viable product).
+We had to promise really steep service SLAs and help desk hours. We had to do intense training sessions. And when things didn’t go perfectly these organizations had huge leverage over us. In short, servicing the elephants consumed us. It soaked up all of our development resources and didn’t allow us to focus on what we felt our company strategy was.
+We started out with such big dreams about changing the world. On some level we felt we did because being a SaaS company in 1999 was trailblazing. But in the end we ended up building esoteric features that we knew our clients would never use because they paid us lots of money. See definition of a whore.
+And this is not just a problem at start-ups. I remember working for Salesforce.com and we were bagging elephants relative to our size. We were obsessed with landing Merrill Lynch, Dell and Cisco. I watched the first two of these customers consume significant portions of our internal programming resources. I personally felt that we would have been better served putting more resource into building out cloud services, for example, to make Salesforce more scalable in terms of our user base. (note: my internal friends at Salesforce tell me that they’ve really fixed this now and internal dev teams are much more focused on bigger, more strategic development).
+Elephant hunting does work for some companies. Some companies / products are designed for large organizations from day 1. But I believe that if you go down this road you will struggle to simultaneously serve the SMB market. The needs are too different as are the sales channels and marketing messages. If you want to hunt elephants optimize your tools for just that. And know that VC will be hard to come by.
+Rabbits:
+Equally deceiving are rabbits. There are so many of them — they seem like they’re everywhere. So you chase them. But as you get closer to them you realize that they’re quick little buggers. They scatter and get away. You wonder whether they were really worth the effort after all.
+Rabbits for me are the equivalent of having a low-end version of your product that you feel you’ll make up for in volume. I see it all the time. Companies post the $5 / month product designed for self-service clients. Or they have products that cost $40 / month but that require a direct sales person to close them.
+This is especially problematic in the Web 2.0 / Freemium world where too many company build their business models around trying to build massive scale of free customers and then convert a small share to low monthly payments. I guess it has worked for some companies? (Basecamp? Who else?)
+My second company, Koral, tried to go down the freemium route. We found that at the low end there wasn’t enough revenue to make it worth our while. Then Salesforce.com asked us to implement our solution to all 3,000 employees (before they decided to buy us). So we were trying to optimize for freemium while building in all of the special requests Salesforce asked for in order to win the deal. We went after it because it was worth some serious elephant meat.
+Sometimes it is acceptable for companies to focus on low-level entry customers — Rabbits. Obviously if you’re going to build a massively scaled business like Twitter, Facebook or Zynga you’re going for huge volumes and the small transaction value model can work. I’m told this model has worked well for Zoho in the small business sector. But unless you’re a very large volume business and focused on transactions rabbits are deceptive.
+I came across a company today at TechCrunch50 called Outright that is perfectly suited to rabbits. I believe it can actually build a big Rabbit Business and it’s strategy seems perfectly suited to reaching this customer base through partners.
+But few companies are good at trapping rabbits.
+Want to be the SharePoint killer? Avoid rabbits. Have a better version of BaseCamp? Ditto. Want to build a product that relies on converting local mom-and-pop businesses into online advertisers — see if a regional approach might work better. Have a product for online backups? Avoid the low end of the market — too elusive and hard to shake enough money out of them.
+In short, when you hunt rabbits they’re not as easy to catch as you might think. When you catch them they don’t have much meat. So you need a lot of them to feed the village.
+Deer:
+The analogy is now obvious. Deer are easy to kill. When you do bag deer they have plenty of meat on them to have made it worth you while. Deer are right-sized for a start-up.
+Deer are not so big that they can make huge demands on you for your development resources or customer support. They can barely get you to agree to make changes to your standard terms & conditions. If you catch lots of them you’re not beholden to one big one that if they cancel their order you’d be devastated.
+When you’re a start-up it is far easier to cut your teeth on companies that are easy to serve, not as demanding yet can afford to pay you fair prices for your product. If their demands are too high you can easily move on to the next customer. They allow you to stay focused on your defined company strategy without having to compromise.
+That’s why I believe most early stage companies should be deer hunters.
+Final question I’m often asked — how big financially are Elephants, Deer & Rabbits? That’s for you to determine for your own business because it depends on your customer base and the value you’re providing them. Many of my friends who were initially focused on low-entry price point consumers have moved up market to focus on slightly smaller markets with customers willing to pay. For me, classic definition of deer segmentation.
+Apologies to all vegetarians.
