@@ -23,8 +23,6 @@ A Python script using:
 - **[Anthropic Message Batches API](https://docs.anthropic.com/en/docs/build-with-claude/batch-processing)** for parallel summarization with Claude
 - A system prompt tuned for ruthless distillation — no summaries, just signal
 
-The tool is available at [`awesome_cto_fetcher.py`](awesome_cto_fetcher.py) if you want to run it yourself or adapt it for other awesome-* lists.
-
 ## Articles Index
 
 ### CTO Position
