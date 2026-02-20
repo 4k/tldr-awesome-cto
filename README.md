@@ -1,6 +1,6 @@
 # Awesome CTO — Distilled
 
-> 153 articles from [awesome-cto](https://github.com/kuchin/awesome-cto), fetched, read by AI, and ruthlessly compressed into pure signal. No fluff, no intros, no "in today's fast-paced world..." — just the insights that matter.
+> 153 articles from [awesome-cto](https://github.com/kuchin/awesome-cto), fetched, read by me and by AI, and ruthlessly compressed into pure signal, edited, rewritten, edited again. No fluff, no intros, no "in today's fast-paced world..." — just the insights that matter.
 
 ## What is this?
 
